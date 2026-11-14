@@ -8,9 +8,9 @@ This repository contains the final detection coordinates, result tables, selecte
 
 ## Whole-slice counting
 
-![Raw section 12, model detections in blue, and alternative detections in pink](figures/whole_slice_12.png)
+![Raw section 5, model detections in blue, and alternative detections in pink](figures/whole_slice_05.png)
 
-Mouse 1, section 12. Both methods are shown over identical images and restricted to the same atlas-and-tissue area. The alternative is a separate counting method, not ground truth. Section 12 contributed training crops, so this figure illustrates application rather than held-out performance.
+Mouse 1, section 5, selected for its more intact tissue and clearly visible dense and sparse areas. Both methods are shown over identical images and restricted to the same atlas-and-tissue area: 893 model detections and 1,182 alternative detections. The alternative is a separate counting method, not ground truth. Section 5 was excluded from fitting, but this full-slice display is an application example, not a whole-slice hand-count accuracy test.
 
 Across all 16 sections, with one-to-one matching within **9 µm**:
 
@@ -85,7 +85,7 @@ To rebuild the five gallery images, supply the private source TIFFs under the re
 python make_figures.py --image-root /path/to/private/data
 ```
 
-The manifest records pixel size, dimensions, display ranges, and SHA-256 hashes. The renderer verifies source hashes and reads the images without modifying them. It requires the section 12 and 16 raw images and their aligned label TIFFs. The PDFs are archived final reports; this command rebuilds the README PNGs only.
+The manifest records pixel size, dimensions, display ranges, and SHA-256 hashes. The renderer verifies source hashes and reads the images without modifying them. It requires the section 5, 12, and 16 raw images and their aligned label TIFFs. The PDFs are archived final reports; this command rebuilds the README PNGs only.
 
 ## Files and reports
 

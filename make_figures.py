@@ -143,7 +143,7 @@ if __name__ == '__main__':
     review = read_csv(RESULTS/'review_windows.csv')
     args.output.mkdir(parents=True, exist_ok=True)
     crops = []
-    for sec in [12, 16]:
+    for sec in [5, 12, 16]:
         rec = records[sec]
         rawpath, labelpath = args.image_root/rec['raw_file'], args.image_root/rec['atlas_file']
         for path, expected in [(rawpath, rec['raw_sha256']), (labelpath, rec['atlas_sha256'])]:
@@ -153,7 +153,10 @@ if __name__ == '__main__':
         raw, labels = tifffile.imread(rawpath), tifffile.imread(labelpath)
         assert raw.dtype == np.uint16 and raw.shape == labels.shape
         lo, hi, um = float(rec['display_min']), float(rec['display_max']), float(rec['um_per_pixel'])
-        whole_slice(raw, sec, lo, hi, args.output/f'whole_slice_{sec:02d}.png')
+        if sec in [5, 16]:
+            whole_slice(raw, sec, lo, hi, args.output/f'whole_slice_{sec:02d}.png')
+        if sec == 5:
+            continue
         atlas_figure(raw, labels, sec, um, lo, hi, args.output/f'atlas_{sec:02d}.png')
         row = next(r for r in review if int(r['section']) == sec)
         crops.append(counting_crop(raw, sec, um, row))
