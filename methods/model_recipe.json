@@ -1,0 +1,48 @@
+{
+  "name": "Three-detector GFP consensus with morphology and appearance filtering",
+  "source_fit": "Full development fit V91; V86 training recipe",
+  "training_crops": 37,
+  "reference_marks": 440,
+  "training_sections": [
+    1,
+    3,
+    7,
+    12,
+    13
+  ],
+  "excluded_test_sections": [
+    5,
+    9
+  ],
+  "detector_seeds": [
+    0,
+    1,
+    2
+  ],
+  "feature_seeds": [
+    31,
+    47,
+    89
+  ],
+  "detector": "Fine-tuned Cellpose 3",
+  "classifier": "Mean of three ExtraTrees models plus unanimous acceptance by three random-feature SVM pipelines",
+  "context_pixels": 512,
+  "core_pixels": 256,
+  "gaussian_sigma_pixels": 1,
+  "diameter_um": 12,
+  "cellprob_threshold": 0,
+  "flow_threshold": 0.4,
+  "normalization_tile_pixels": 200,
+  "consensus_minimum": 2,
+  "consensus_radius_um": 8,
+  "cross_tile_duplicate_radius_um": 8,
+  "comparison_matching_um": 9,
+  "dense_radius_um": 250,
+  "dense_minimum_detections": 20,
+  "density_grid_pixels": 32,
+  "density_center_spacing_um": 500,
+  "physical_pixel_size_um": 1.449,
+  "original_conservative_cv_gate_passed": false,
+  "independent_animal_validation": false,
+  "model_weights_distributed": false
+}

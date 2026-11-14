@@ -1,0 +1,206 @@
+structure_id,acronym,name,display_hex,official_allen_hex
+6,int,internal capsule,7BEADC,CCCCCC
+15,PT,Parataenial nucleus,8C8CD9,FF909F
+19,IG,Induseum griseum,EA7BB3,7ED04B
+23,AAA,Anterior amygdalar area,E0427E,80C0E2
+38,PVH,Paraventricular hypothalamic nucleus,46BD1F,FF5D50
+39,ACAd,"Anterior cingulate area, dorsal part",5B5BC8,40A666
+44,ILA,Infralimbic area,EA7B89,59B363
+48,ACAv,"Anterior cingulate area, ventral part",BD6E1F,40A666
+54,mfb,medial forebrain bundle,37A46E,CCCCCC
+56,ACB,Nucleus accumbens,4291E0,80CDF8
+59,IMD,Intermediodorsal nucleus of the thalamus,37A489,FF909F
+63,PVHd,"Paraventricular hypothalamic nucleus, descending division",9142E0,FF4C3E
+64,AD,Anterodorsal nucleus,A44537,FF909F
+72,ADP,Anterodorsal preoptic nucleus,7B97EA,FF5547
+81,VL,lateral ventricle,BD951F,AAAAAA
+88,AHN,Anterior hypothalamic nucleus,7BCEEA,FF4C3E
+98,SEZ,subependymal zone,42E0E0,AAAAAA
+102,nst,nigrostriatal tract,E042B9,CCCCCC
+104,AId,"Agranular insular area, dorsal part",DCEA7B,219866
+108,chpl,choroid plexus,6AE042,AAAAAA
+111,AIp,"Agranular insular area, posterior part",32BD1F,219866
+117,och,optic chiasm,EAC07B,CCCCCC
+118,PVi,"Periventricular hypothalamic nucleus, intermediate part",1FBDBD,FF5D50
+119,AIv,"Agranular insular area, ventral part",BD1F5A,219866
+125,opt,optic tract,1F46BD,CCCCCC
+129,V3,third ventricle,D98C96,AAAAAA
+131,LA,Lateral amygdalar nucleus,CF8CD9,90EB8D
+133,PVpo,"Periventricular hypothalamic nucleus, preoptic part",EADC7B,FF5547
+149,PVT,Paraventricular nucleus of the thalamus,BDBD1F,FF909F
+155,LD,Lateral dorsal nucleus of thalamus,A542E0,FF909F
+159,AON,Anterior olfactory nucleus,811FBD,54BF94
+173,RCH,Retrochiasmatic area,95BD1F,F2483B
+178,LGv,Ventral part of the lateral geniculate complex,D98CB2,FF909F
+181,RE,Nucleus of reuniens,BD1F81,FF909F
+184,FRP,"Frontal pole, cerebral cortex",EAA57B,268F45
+186,LH,Lateral habenula,A43745,FF909F
+189,RH,Rhomboid nucleus,5ABD1F,FF909F
+194,LHA,Lateral hypothalamic area,42E0A5,F2483B
+218,LP,Lateral posterior nucleus of the thalamus,C85B5B,FF909F
+223,ARH,Arcuate hypothalamic nucleus,3737A4,FF5D50
+226,LPO,Lateral preoptic area,8C9FD9,F2483B
+250,LSc,"Lateral septal nucleus, caudal (caudodorsal) part",7BA5EA,90CBED
+255,AV,Anteroventral nucleus of thalamus,1FBD32,FF909F
+258,LSr,"Lateral septal nucleus, rostral (rostroventral) part",CD42E0,90CBED
+262,RT,Reticular nucleus of the thalamus,BD1F32,FF909F
+263,AVP,Anteroventral preoptic nucleus,6E37A4,FF5547
+266,LSv,"Lateral septal nucleus, ventral part",D98CC6,90CBED
+272,AVPV,Anteroventral periventricular nucleus,1FBD81,FF5547
+286,SCH,Suprachiasmatic nucleus,1FBD95,FF5547
+292,BA,Bed nucleus of the accessory olfactory tract,5B76C8,80C0E2
+298,MA,Magnocellular nucleus,42E0CD,A2B1D8
+301,st,stria terminalis,1F1FBD,CCCCCC
+303,BLAa,"Basolateral amygdalar nucleus, anterior part",1FBDA9,9DE79C
+310,SF,Septofimbrial nucleus,BD321F,90CBED
+311,BLAp,"Basolateral amygdalar nucleus, posterior part",EACE7B,9DE79C
+327,BMAa,"Basomedial amygdalar nucleus, anterior part",376EA4,84EA81
+329,SSp-bfd,"Primary somatosensory area, barrel field",E042A5,188064
+333,SH,Septohippocampal nucleus,37A497,90CBED
+334,BMAp,"Basomedial amygdalar nucleus, posterior part",E04242,84EA81
+337,SSp-ll,"Primary somatosensory area, lower limb",C85B84,188064
+338,SFO,Subfornical organ,7BEA89,FF5547
+342,SI,Substantia innominata,E042CD,A2B1D8
+345,SSp-m,"Primary somatosensory area, mouth",D98CA9,188064
+347,SBPV,Subparaventricular zone,7B37A4,FF5547
+349,sup,supraoptic commissures,3789A4,CCCCCC
+351,BST,Bed nuclei of the stria terminalis,37A47B,B3C0DF
+353,SSp-n,"Primary somatosensory area, nose",426AE0,188064
+356,PST,Preparasubthalamic nucleus,8CA9D9,F2483B
+361,SSp-tr,"Primary somatosensory area, trunk",1FBD5A,188064
+362,MD,Mediodorsal nucleus of thalamus,5642E0,FF909F
+364,PSTN,Parasubthalamic nucleus,A49737,F2483B
+366,SMT,Submedial nucleus of the thalamus,BD5A1F,FF909F
+369,SSp-ul,"Primary somatosensory area, upper limb",427EE0,188064
+378,SSs,Supplemental somatosensory area,1FBD1F,188064
+382,CA1,Field CA1,EA7B7B,7ED04B
+390,SO,Supraoptic nucleus,7EE042,FF5D50
+394,VISam,Anteromedial visual area,37A445,08858C
+403,MEA,Medial amygdalar nucleus,7BEACE,80C0E2
+417,VISrl,Rostrolateral visual area,97EA7B,009FAC
+423,CA2,Field CA2,1F95BD,7ED04B
+428,mct,medial corticohypothalamic tract,D9968C,CCCCCC
+436,fx,columns of the fornix,8C96D9,CCCCCC
+443,dhc,dorsal hippocampal commissure,EA7BDC,CCCCCC
+449,vhc,ventral hippocampal commissure,B9E042,CCCCCC
+451,BLAv,"Basolateral amygdalar nucleus, ventral part",42E056,9DE79C
+452,MEPO,Median preoptic nucleus,D9B28C,FF5547
+463,CA3,Field CA3,BD461F,7ED04B
+466,alv,alveus,5A1FBD,CCCCCC
+470,STN,Subthalamic nucleus,5BC8BA,F2483B
+477,STR,Striatum,42E042,98D6F9
+483,MH,Medial habenula,951FBD,FF909F
+507,MOB,Main olfactory bulb,1FA9BD,9AD2BD
+515,MPN,Medial preoptic nucleus,8937A4,FF4C3E
+523,MPO,Medial preoptic area,E0E042,FF5547
+530,df,dorsal fornix,A4377B,CCCCCC
+538,lotd,dorsal limb,8CB2D9,CCCCCC
+541,TEa,Temporal association areas,A46E37,15B0B3
+544,CEAc,"Central amygdalar nucleus, capsular part",4242E0,80C0E2
+549,TH,Thalamus,8CD9B2,FF7080
+551,CEAl,"Central amygdalar nucleus, lateral part",7BDCEA,80C0E2
+559,CEAm,"Central amygdalar nucleus, medial part",A43737,80C0E2
+564,MS,Medial septal nucleus,D9CF8C,96A7D3
+575,CL,Central lateral nucleus of the thalamus,E0CD42,FF909F
+579,ec,external capsule,1F81BD,CCCCCC
+581,TRS,Triangular nucleus of septum,7E42E0,96A7D3
+583,CLA,Claustrum,E09142,8ADA87
+595,fr,fasciculus retroflexus,7BB2EA,CCCCCC
+596,NDB,Diagonal band nucleus,321FBD,96A7D3
+597,TTd,"Taenia tecta, dorsal part",E05642,62D09F
+599,CM,Central medial nucleus of the thalamus,A98CD9,FF909F
+603,fi,fimbria,5BC89F,CCCCCC
+605,TTv,"Taenia tecta, ventral part",8CBCD9,62D09F
+611,hbc,habenular commissure,89EA7B,CCCCCC
+614,TU,Tuberal nucleus,C8AD5B,F2483B
+619,NLOT,Nucleus of the lateral olfactory tract,E04291,95E4C8
+629,VAL,Ventral anterior-lateral complex of the thalamus,42A5E0,FF8084
+632,DG-sg,"Dentate gyrus, granule cell layer",5B9FC8,66A83D
+639,COAa,"Cortical amygdalar area, anterior part",6E1FBD,61E7B7
+655,COApl,"Cortical amygdalar area, posterior part, lateral zone",EA7BA5,61E7B7
+663,COApm,"Cortical amygdalar area, posterior part, medial zone",91E042,61E7B7
+665,lot,"lateral olfactory tract, body",BD1F46,CCCCCC
+672,CP,Caudoputamen,E04256,98D6F9
+677,VISC,Visceral area,D98CBC,11AD83
+685,VM,Ventral medial nucleus of the thalamus,BD1FA9,FF8084
+689,VLPO,Ventrolateral preoptic nucleus,D99F8C,FF5547
+690,mtt,mammillothalamic tract,1F5ABD,CCCCCC
+693,VMH,Ventromedial hypothalamic nucleus,5BADC8,FF4C3E
+698,OLF,Olfactory areas,A48937,9AD2BD
+703,CTXsp,Cortical subplate,B942E0,8ADA87
+718,VPL,Ventral posterolateral nucleus of the thalamus,A5E042,FF8084
+723,ORBl,"Orbital area, lateral part",461FBD,248A5E
+731,ORBm,"Orbital area, medial part",A437A4,248A5E
+733,VPM,Ventral posteromedial nucleus of the thalamus,E06A42,FF8084
+741,VPMpc,"Ventral posteromedial nucleus of the thalamus, parvicellular part",E07E42,FF8084
+746,ORBvl,"Orbital area, ventrolateral part",7BC0EA,248A5E
+754,OT,Olfactory tubercle,1F32BD,80CDF8
+763,OV,Vascular organ of the lamina terminalis,9737A4,FF5547
+788,PAA,Piriform-amygdalar area,8CD9A9,59DAAB
+797,ZI,Zona incerta,5B84C8,F2483B
+802,sm,stria medullaris,56E042,CCCCCC
+803,PAL,Pallidum,E0B942,8599CC
+814,DP,Dorsal peduncular area,42E06A,A4DAA4
+830,DMH,Dorsomedial nucleus of the hypothalamus,C85BC8,FF5547
+848,IIn,optic nerve,B3EA7B,CCCCCC
+879,RSPd,"Retrosplenial area, dorsal part",7BEA7B,1AA698
+884,amc,amygdalar capsule,E0A542,CCCCCC
+886,RSPv,"Retrosplenial area, ventral part",A45237,1AA698
+894,RSPagl,"Retrosplenial area, lateral agranular part",EAB27B,1AA698
+895,ECT,Ectorhinal area,5BC8AD,0D9F91
+900,aco,"anterior commissure, olfactory limb",EA7B97,CCCCCC
+907,PCN,Paracentral nucleus,1FBD46,FF909F
+908,act,"anterior commissure, temporal limb",4537A4,CCCCCC
+914,PD,Posterodorsal preoptic nucleus,D98C9F,FF5547
+918,ENTl,"Entorhinal area, lateral part",D9C68C,32B825
+922,PERI,Perirhinal area,5237A4,0E9684
+940,cing,cingulum bundle,42B9E0,CCCCCC
+946,PH,Posterior hypothalamic nucleus,EAEA7B,FF4C3E
+952,EPd,"Endopiriform nucleus, dorsal part",42E0B9,A0EE9D
+956,fa,"corpus callosum, anterior forceps",D98CCF,CCCCCC
+961,PIR,Piriform area,377BA4,6ACBBA
+964,ee,"corpus callosum, extreme capsule",A43760,CCCCCC
+966,EPv,"Endopiriform nucleus, ventral part",E0426A,A0EE9D
+972,PL,Prelimbic area,81BD1F,2FA850
+982,FC,Fasciola cinerea,6EBD1F,7ED04B
+985,MOp,Primary motor area,6A42E0,1F9D5A
+986,ccs,"corpus callosum, splenium",42E07E,CCCCCC
+993,MOs,Secondary motor area,BD1F6E,1F9D5A
+997,root,root,5B91C8,FFFFFF
+998,FS,Fundus of striatum,7BEAC0,80CDF8
+1009,fiber tracts,fiber tracts,E042E0,CCCCCC
+1011,AUDd,Dorsal auditory area,A43797,019399
+1016,onl,olfactory nerve layer of main olfactory bulb,BA5BC8,CCCCCC
+1018,AUDv,Ventral auditory area,7BEAEA,019399
+1020,PO,Posterior complex of the thalamus,4256E0,FF909F
+1022,GPe,"Globus pallidus, external segment",3760A4,8599CC
+1031,GPi,"Globus pallidus, internal segment",37A437,8599CC
+1057,GU,Gustatory areas,8CD9BC,009C75
+1077,PR,Perireunensis nucleus,A9BD1F,FF909F
+1089,HPF,Hippocampal formation,42E091,7ED04B
+1092,em,external medullary lamina of the thalamus,BD1F95,CCCCCC
+1096,AMd,"Anteromedial nucleus, dorsal part",6037A4,FF909F
+1097,HY,Hypothalamus,BD1F1F,E64438
+1104,AMv,"Anteromedial nucleus, ventral part",A47B37,FF909F
+1105,IA,Intercalated amygdalar nucleus,7BA437,80C0E2
+1108,ccg,genu of corpus callosum,A91FBD,CCCCCC
+1109,PS,Parastrial nucleus,D9A98C,FF5547
+1113,IAD,Interanterodorsal nucleus of the thalamus,A43752,FF909F
+1120,IAM,Interanteromedial nucleus of the thalamus,C89F5B,FF909F
+10671,ME,Median eminence,5BC85B,F2483B
+10703,DG-mo,"Dentate gyrus, molecular layer",BDA91F,7ED04B
+10704,DG-po,"Dentate gyrus, polymorph layer",A5EA7B,7ED04B
+182305689,SSp-un,"Primary somatosensory area, unassigned",42CDE0,188064
+312782546,VISa,Anterior area,3745A4,009FAC
+484682512,scwm,supra-callosal cerebral white matter,BD811F,CCCCCC
+484682516,ccb,"corpus callosum, body",A9D98C,CCCCCC
+484682520,or,optic radiation,1F6EBD,CCCCCC
+484682524,ar,auditory radiation,BD1FBD,CCCCCC
+484682528,stc,commissural branch of stria terminalis,EA7BEA,CCCCCC
+496345664,LGd-sh,"Dorsal part of the lateral geniculate complex, shell",A46037,FF8084
+496345668,LGd-co,"Dorsal part of the lateral geniculate complex, core",CDE042,FF8084
+496345672,LGd-ip,"Dorsal part of the lateral geniculate complex, ipsilateral zone",5BC8C8,FF8084
+560581551,Eth,Ethmoid nucleus of the thalamus,37A4A4,FF909F
+560581559,Xi,Xiphoid thalamic nucleus,EA977B,FF909F
+576073699,VMPO,Ventromedial preoptic nucleus,1FBD6E,FF5547
+576073704,PeF,Perifornical nucleus,C8BA5B,F2483B

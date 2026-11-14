@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.local/
+.env
+data/local*
+data/raw/
+data/labels/
+*.tif
+*.tiff
+*.xml
+weights/
+models/
+*.pt
+*.pth
+*.joblib

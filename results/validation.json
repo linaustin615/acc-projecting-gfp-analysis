@@ -1,0 +1,54 @@
+{
+  "created_at": "2026-11-12T17:52:39.238577-05:00",
+  "metrics": {
+    "v69": {
+      "hand": 127,
+      "predicted": 108,
+      "matched": 102,
+      "missed": 25,
+      "extra": 6,
+      "precision": 0.9444444444444444,
+      "recall": 0.8031496062992126,
+      "f1": 0.8680851063829788,
+      "absolute_crop_count_error": 25,
+      "ignored": 0
+    },
+    "full_v91": {
+      "hand": 127,
+      "predicted": 128,
+      "matched": 115,
+      "missed": 12,
+      "extra": 13,
+      "precision": 0.8984375,
+      "recall": 0.905511811023622,
+      "f1": 0.9019607843137255,
+      "absolute_crop_count_error": 13,
+      "ignored": 0
+    },
+    "alternative": {
+      "hand": 127,
+      "predicted": 297,
+      "matched": 119,
+      "missed": 8,
+      "extra": 178,
+      "precision": 0.4006734006734007,
+      "recall": 0.937007874015748,
+      "f1": 0.5613207547169812,
+      "absolute_crop_count_error": 180,
+      "ignored": 0
+    }
+  },
+  "accepted_marks": 127,
+  "uncertain_marks": 0,
+  "test_crops": 6,
+  "test_sections": [
+    5,
+    9
+  ],
+  "repeat_heldout_check": true,
+  "independent_animal_validation": false,
+  "matched_cardinality_checks": 108,
+  "sampling_notes": "Quality/interpretability exclusion after viewing raw tissue changes the test sampling. Report1 deferred original plus6 retained test crops; assess performance conditional on retained scorable crops. Do not claim accuracy on the original difficult region or unbiased whole-tissue performance.",
+  "model_changed": false,
+  "thresholds_changed": false
+}
